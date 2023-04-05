@@ -16,4 +16,6 @@
    16  ls /opt/nexus/bin
    17  sudo ln -s /opt/nexus/bin/nexus /etc/init.d/nexus
    18  su - nexus
+   19  /opt/nexus/bin
+   20  ./nexus start
    19  history
